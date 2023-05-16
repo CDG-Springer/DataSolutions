@@ -1,7 +1,7 @@
 # DataSolutions
 Site feito para apresentação de projeto da faculdade UNIBR
 
-# Explicação
+**Explicação
 
 Esse site foi feito por mim para uma apresentação minha e de alguns colegas para o professor Ronaldo Pinheiro. Nosso objetivo era apresentar uma empresa e vender um produto. Essa empresa teria que ser certificada com ISOs e deveria apresentar slogan, tema, um produto e cada membro deveria ser responsável por uma parte do projeto. Nosso objetivo era convencer nosso professor que seria uma boa ideia comprar nosso produto respondendo suas perguntas após nossa apresentação.
 
